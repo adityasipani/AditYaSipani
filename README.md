@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/asipani969" target="blank"><img src="https://img.shields.io/twitter/follow/asipani969?logo=twitter&style=for-the-badge" alt="asipani969" /></a> </p>
 
-- 👀I’m currently working on **MERN Projects and DSA**
+- 👀I’m currently working on **MERN ,React Native Projects and DSA**
 
 - 🌱 I’m currently learning **MERN**
 

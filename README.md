@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/asipani969" target="blank"><img src="https://img.shields.io/twitter/follow/asipani969?logo=twitter&style=for-the-badge" alt="asipani969" /></a> </p>
 
-- 👀I’m currently working on **Java Springboot, Angular and DSA**
+- 👀I’m currently working on **Agentic AI, Java Springboot, Angular and DSA**
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
-- 💬 Ask me about **Full Stack,Cs Fundamentals and DSA**
+- 💬 Ask me about **System Design,CS Fundamentals and DSA**
 
 - 📫 How to reach me **asipani79@gmail.com**
 

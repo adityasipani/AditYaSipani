@@ -7,3 +7,7 @@ Backend engineer at **Optym**, building event-driven systems on Azure (Service B
 - 🏆 Codeforces Specialist · 400+ LeetCode
 
 📫 asipani79@gmail.com · [LinkedIn](https://linkedin.com/in/aditya-sipani)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasipani&theme=blue-green&hide_border=false" alt="GitHub streak" />
+</p>
